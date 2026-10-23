@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/test_geometry.dir/tests/tests_geometry.cpp.o -o test_geometry  libgeometry.a 

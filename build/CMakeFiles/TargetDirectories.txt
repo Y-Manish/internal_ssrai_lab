@@ -1,4 +1,0 @@
-/home/vnrvjiet/internal_lab/build/CMakeFiles/geometry.dir
-/home/vnrvjiet/internal_lab/build/CMakeFiles/test_geometry.dir
-/home/vnrvjiet/internal_lab/build/CMakeFiles/edit_cache.dir
-/home/vnrvjiet/internal_lab/build/CMakeFiles/rebuild_cache.dir
